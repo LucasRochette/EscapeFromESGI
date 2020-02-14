@@ -1,0 +1,277 @@
+﻿  main.c
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:32:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_main.h:25:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_stdinc.h:31:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_config.h:26:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_platform.h:179:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:32:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_main.h:25:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_stdinc.h:347:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:32:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_main.h:112:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:34:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_assert.h:27:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:35:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_atomic.h:65:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:36:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_audio.h:32:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_error.h:33:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:36:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_audio.h:33:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_endian.h:59:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:36:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_audio.h:34:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_mutex.h:34:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:36:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_audio.h:35:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_thread.h:38:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:36:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_audio.h:36:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_rwops.h:35:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:36:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_audio.h:38:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:37:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_clipboard.h:33:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:38:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_cpuinfo.h:103:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:41:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_events.h:33:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_video.h:32:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_pixels.h:34:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:41:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_events.h:33:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_video.h:33:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_rect.h:36:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:41:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_events.h:33:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_video.h:34:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_surface.h:34:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_blendmode.h:31:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:41:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_events.h:33:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_video.h:34:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_surface.h:37:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:41:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_events.h:33:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_video.h:36:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:41:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_events.h:34:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_keyboard.h:36:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:41:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_events.h:35:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_mouse.h:35:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:41:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_events.h:36:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_joystick.h:45:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:41:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_events.h:37:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_gamecontroller.h:36:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:41:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_events.h:39:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_gesture.h:35:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_touch.h:35:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:41:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_events.h:39:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_gesture.h:38:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:41:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_events.h:42:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:42:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_filesystem.h:33:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:44:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_haptic.h:114:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:45:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_hints.h:44:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:47:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_loadso.h:47:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:48:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_log.h:42:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:49:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_messagebox.h:28:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:51:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_power.h:33:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:52:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_render.h:55:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:54:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_sensor.h:35:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:55:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_shape.h:31:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:56:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_system.h:36:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:58:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_timer.h:34:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:59:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/SDL_version.h:33:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:4:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\SDL.h:62:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include/begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:5:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2_image.nuget.2.0.5\build\native\../..//build/native/include\SDL_image.h:29:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:6:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2_ttf.nuget.2.0.15\build\native\../..//build/native/include\SDL_ttf.h:35:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  In file included from main.c:7:
+  In file included from C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2_mixer.nuget.2.0.4\build\native\../..//build/native/include\SDL_mixer.h:30:
+C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\packages\sdl2.nuget.2.0.10\build\native\../..//build/native/include\begin_code.h(109,34): warning : unknown warning group '-Wpragma-pack', ignored [-Wunknown-pragmas]
+  #pragma clang diagnostic ignored "-Wpragma-pack"
+                                   ^
+  42 warnings generated.
+  ProjetC.vcxproj -> C:\Users\lucas.rochette\Documents\cours\C\visual studio\Projet-C-master\x64\Debug\ProjetC.exe
